@@ -6,42 +6,42 @@ const data = {
     datasets: [
     {
       label: 'Software Developer',
-      data: [0, 20, 20, 60, 60, 120, NaN, 180, 120, 125, 105, 110, 170],
+      data: [20000,100000, 70000, 35000, 18000, 10000, 0],
      borderColor: "#962DFF",
       fill: false,
       tension: 0.4
     },
     {
-      label: 'Software Developer',
-      data: [0, 20, 20, 60, 60, 120, NaN, 180, 120, 125, 105, 110, 170],
+      label: 'App Developer',
+      data: [18000,80000, 58000, 25000, 10000, 0, 0, 0],
      borderColor: "#4A3AFF",
       fill: false,
       tension: 0.4
     },
     {
-      label: 'Software Developer',
-      data: [0, 20, 20, 60, 60, 120, NaN, 180, 120, 125, 105, 110, 170],
+      label: 'Elevator Mechanic',
+      data: [20000,40000,60000,80000,60000,40000,10000],
      borderColor: "#93AAFD",
       fill: false,
       tension: 0.4
     },
     {
-      label: 'Software Developer',
-      data: [0, 20, 20, 60, 60, 120, NaN, 180, 120, 125, 105, 110, 170],
+      label: 'Electrician',
+      data: [20000,40000,60000,80000,60000,40000,10000],
      borderColor: "#D013EE",
       fill: false,
       tension: 0.4
     },
     {
-      label: 'Software Developer',
-      data: [0, 20, 20, 60, 60, 120, NaN, 180, 120, 125, 105, 110, 170],
+      label: 'Data Scientist',
+      data: [20000,40000,60000,80000,60000,40000,10000],
      borderColor: "#B36CFA",
       fill: false,
       tension: 0.4
     },
     {
-      label: 'Software Developer',
-      data: [0, 20, 20, 60, 60, 120, NaN, 180, 120, 125, 105, 110, 170],
+      label: 'Surveyer',
+      data: [20000,40000,60000,80000,60000,40000,10000],
      borderColor: "#7E74EB",
       fill: false,
       tension: 0.4
