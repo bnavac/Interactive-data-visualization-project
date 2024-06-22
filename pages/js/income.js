@@ -5,14 +5,14 @@ const data = {
   datasets: [
    {
     label: 'App Developer',
-    data: [12, 19, 3, 5, 2, 3],
+    data: [10000, 45000, 70000, 100000, 155000, 185000, 230000],
     backgroundColor: "#962DFF",
     borderWidth: 1,
     borderRadius: 100,
   },   
    {
     label: 'Software Developer',
-    data: [12, 19, 3, 5, 2, 3],
+    data: [6000, 55000, 75000, 115000, 165000, 200000, 240000],
     backgroundColor: "#4A3AFF",
     borderWidth: 1,
     borderRadius: 100,
@@ -39,8 +39,8 @@ const data = {
     borderRadius: 100,
   },   
    {
-    label: 'Surveyer',
-    data: [12, 19, 3, 5, 2, 3],
+    label: 'Surveyor',
+    data: [58000, 75000, 82000, 100000, 148000, 160000, 185000],
     backgroundColor: "#7E74EB",
     borderWidth: 1,
     borderRadius: 100,
