@@ -61,7 +61,7 @@ new Chart(ctx, {
           display: true,
           title: {
               display: true,
-              text: 'Total Debt In US Dollars'
+              text: 'Total Debt In US Dollars',
           }
       },
         x: {
