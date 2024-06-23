@@ -20,7 +20,7 @@ const data = {
    {
     label: 'Data Scientist',
     data: [5000, 45000, 65000, 110000, 155000, 180000, 260000],
-    backgroundColor: "#93AAFD",
+    backgroundColor: "#1370bd",
     borderWidth: 1,
     borderRadius: 100,
   },   
@@ -34,7 +34,7 @@ const data = {
    {
     label: 'Carpenter',
     data: [75000, 80000, 85000, 95000, 120000, 140000, 155000],
-    backgroundColor: "#B36CFA",
+    backgroundColor: "#57109e",
     borderWidth: 1,
     borderRadius: 100,
   },   
