@@ -110,7 +110,7 @@ const chart = new Chart(ctx, {
         },
         title: {
             display: true,
-            text: 'Projected Gross Income'
+            text: 'Job Satisfaction'
         }
     }
   }

@@ -160,7 +160,7 @@ var chart = new Chart(ctx, {
           display: true,
           title: {
               display: true,
-              text: 'Total Debt In US Dollars'
+              text: 'Percentage(%)'
           }
       },
         x: {
@@ -183,7 +183,7 @@ var chart = new Chart(ctx, {
         },
         title: {
             display: true,
-            text: 'Projected Debt After Graduation'
+            text: 'Employment Statistics'
         }
     }
   }
